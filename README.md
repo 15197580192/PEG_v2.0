@@ -15,7 +15,7 @@ After installing, you could get the packed packages which could be found at the 
 We use mysql to save userinfo. You are supposed to install mysql and connect it in the `db/dbUtil.cpp`
 #### Install
 ```
-bash pupup
+bash pupu
 ```
 #### Deploy
 ```
